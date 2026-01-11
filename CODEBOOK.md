@@ -107,7 +107,7 @@
   ---
 
   ## Example Row
-
+```
   game_id: 2010020009
   teamAbbrev: ANA
   season: 20102011
@@ -120,7 +120,7 @@
   sog_depth_z: -2.499
   tdi_factor: -2.148
   depth_rolling10: NA
-
+```
   This represents the Anaheim Ducks' loss in game 2010020009, where they had low depth (concentrated shots among few players).
 
   ---
