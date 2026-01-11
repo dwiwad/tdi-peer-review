@@ -1,0 +1,25 @@
+# R
+  .Rhistory
+  .RData
+  .Rproj.user
+  *.Rproj
+
+  # Python
+  __pycache__/
+  *.pyc
+  *.pyo
+  .pytest_cache/
+  *.egg-info/
+
+  # OS
+  .DS_Store
+  Thumbs.db
+
+  # Output files
+  *.png
+  *.pdf
+  analysis/*.png
+  analysis/*.pdf
+
+  # Large temp files
+  *.tmp

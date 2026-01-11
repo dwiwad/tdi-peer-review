@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+  message: "If you use this dataset or code, please cite it as below."
+  type: dataset
+  title: "Total Depth Index (TDI) in the NHL: Data and Code"
+  abstract: "This repository contains data, preprocessing scripts, and analysis code for measuring team depth in the National Hockey League using latent variable modeling. Includes 15 seasons of NHL data (2010-2025) with depth metrics derived from Gini coefficients applied to shot, expected goals, Corsi, and time-on-ice distributions."
+  authors:
+    - family-names: Wiwad
+      given-names: Dylan
+      email: dwiwad@gmail.com
+      orcid: "https://orcid.org/0000-0000-0000-0000"
+      affiliation: "Independent Researcher"
+  repository-code: "https://github.com/dwiwad/tdi-peer-review"
+  url: "https://hockeydecoded.com"
+  keywords:
+    - NHL
+    - hockey analytics
+    - sports analytics
+    - latent variable modeling
+    - structural equation modeling
+    - psychometrics
+    - depth
+    - team performance
+  license: MIT
+  date-released: 2026-01-11
+  version: "1.0.0"
