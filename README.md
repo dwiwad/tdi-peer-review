@@ -1,18 +1,18 @@
 # Total Depth Index (TDI) in the NHL: Peer Review Repository
 
-  This repository contains all data, code, and documentation to reproduce the analyses presented in:
+ This repository contains all data, code, and documentation to reproduce the analyses presented in:
 
-  **"Latent Variable Modeling for Intangible Constructs in Sports: The Case of Team Depth in the National Hockey League"**
+ **"Latent Variable Modeling for Intangible Constructs in Sports: The Case of Team Depth in the National Hockey League"**
 
-  Dylan Wiwad, PhD
-  Hockey Decoded
-  Email: dwiwad@gmail.com
+ Dylan Wiwad, PhD
+ Hockey Decoded
+ Email: dwiwad@gmail.com
 
-  ---
+ ---
 
-  ## Repository Contents
+## Repository Contents
 
-  .
+.
   ├── README.md                          # This file
   ├── PREPROCESSING.md                   # Complete data pipeline documentation
   ├── CODEBOOK.md                        # Variable definitions
