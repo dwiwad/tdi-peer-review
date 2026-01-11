@@ -5,7 +5,7 @@
   ---
 
   ## Pipeline Overview
-
+```
   NHL API + Moneypuck
           ↓
   Raw Data Collection (12+ hours)
@@ -19,7 +19,7 @@
   Standardization & SEM
           ↓
   final_data_20102025.csv
-
+```
   ---
 
   ## Step 1: Data Collection

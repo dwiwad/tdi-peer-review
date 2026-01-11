@@ -4,10 +4,9 @@
 
  **"Latent Variable Modeling for Intangible Constructs in Sports: The Case of Team Depth in the National Hockey League"**
 
- Dylan Wiwad, PhD
- Hockey Decoded
- Email: dwiwad@gmail.com
-
+ Dylan Wiwad, PhD  
+ Hockey Decoded  
+ Email: dwiwad@gmail.com  
  ---
 
 ## Repository Contents
