@@ -12,6 +12,7 @@
 
 ## Repository Contents
 
+```
 .
   ├── README.md                          # This file
   ├── PREPROCESSING.md                   # Complete data pipeline documentation
@@ -33,7 +34,7 @@
   │   └── creating_final_all_season_df.py # Create final dataset
   └── analysis/
       └── tdi_complete_analysis.R         # Complete R analysis script
-
+```
   ---
 
   ## Quick Start
